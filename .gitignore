@@ -1,2 +1,2 @@
 # ignore notebook checkpoint
-*/.ipynb_checkpoints/*.ipynb
+.ipynb_checkpoints
