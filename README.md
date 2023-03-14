@@ -1,2 +1,4 @@
 # Shark Species Image Classification Project
-dataset : https://www.kaggle.com/datasets/larusso94/shark-species
+## รายชื่อสมาชิก
+* 6310401165 วิศรุต หอมแก่นจันทร์
+* 6310401009 ณัฐภัทร สุดประเสริฐ 
