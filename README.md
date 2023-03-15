@@ -16,7 +16,7 @@
 
 ## วิธีการติดตั้งหรือรันโปรแกรม
 
-pip install -r requirements.txt
+ใช้คำสั่ง  pip install -r requirements.txt ใน command promt เพื่อติดตั้ง Environments
 
 1.เปิดไฟล์ shark_classification.ipynb ด้วย jupyter notebook <br />
 2.กดรัน all cell <br />
