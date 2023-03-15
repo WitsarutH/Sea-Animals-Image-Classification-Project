@@ -15,6 +15,9 @@
 - ทำการเซฟโมเดลที่เทรนได้เพื่อเก็บไว้ใช้ในการทำนาย
 
 ## วิธีการติดตั้งหรือรันโปรแกรม
+
+pip install -r requirements.txt
+
 1.เปิดไฟล์ shark_classification.ipynb ด้วย jupyter notebook <br />
 2.กดรัน all cell <br />
 3.โปรแกรมจะมีหน้าต่างให้ผู่ใช้ใส่รูปขึ้นมา <br />
