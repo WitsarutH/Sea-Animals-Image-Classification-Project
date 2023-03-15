@@ -1,0 +1,9 @@
+tensorflow
+pickle
+keras
+tkinter
+IPython
+sklearn
+matplotlib
+seaborn
+plotly
